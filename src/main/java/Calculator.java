@@ -1,7 +1,7 @@
 
 class Calculator {
     // first change to test actions
-    
+
     Calculator(){
 
     }
